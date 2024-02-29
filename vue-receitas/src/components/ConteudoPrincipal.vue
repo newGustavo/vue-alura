@@ -19,6 +19,7 @@ export default {
       <SuaLista :ingredientes="ingredientes"/>
       
       <SelecionaIngredientes />
+      
     </section>
 
 

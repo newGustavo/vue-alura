@@ -5,7 +5,7 @@ import ConteudoPrincipal from './components/ConteudoPrincipal.vue';
     components: {
     Banner,
     ConteudoPrincipal
-  }
+    }
   }
 </script>
 
